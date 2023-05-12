@@ -22,7 +22,7 @@ For detailed usage guidelines and recommendations, refer to the [User Manual](us
 
 ## Contributing
 
-Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please submit them as [GitHub Issues](https://github.com/realone/repositoryname/issues).
+Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please submit them as [GitHub Issues](https://github.com/realone/CourtRecorder/issues).
 
 To contribute code, please follow the guidelines outlined in the [Contribution Guidelines](contributing.md). Your contributions can make a significant impact on advancing the digital court recording system.
 
